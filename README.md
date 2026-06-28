@@ -1,43 +1,53 @@
-# Hi, I'm Raheela Chand
+# Hi, I'm Raheela Chand 👋
 
-**AI for Games Researcher | Game Analytics | Unity Developer**
+**PhD Researcher in AI for Games | Computational Game Analytics | Former Unity Developer**
 
-I am a PhD researcher at the University of Turku working on **AI for Games**, **computational game analytics**, and **data-centric AI**. My research focuses on transforming complex game data into interpretable knowledge that can support better game development decisions.
+I'm a PhD researcher at the **University of Turku** exploring how AI can better understand games, players, and game development. My research combines **large-scale game datasets**, **machine learning**, and **explainable AI** to build intelligent systems that support evidence-based decision making in games.
 
-I also have practical experience in **Unity development**, including mobile games, VR/XR prototypes, and interactive systems.
+Before starting my PhD, I worked as a **Unity developer**, building commercial mobile games and interactive systems. Today, I combine that industry experience with research, developing datasets, analytical frameworks, and AI-driven tools for game development.
 
-## Current Focus
+## Research Interests
 
-- AI for Games
-- Game Datasets & Benchmarking
-- Computational Game Analytics
-- Player Behaviour Analytics
-- Cross-Cultural Game Analytics
-- Explainable Decision Intelligence
-- Interaction-aware Learning Models
-- Intelligent Game Development Tools
+* AI for Games
+* Computational Game Analytics
+* Data-Centric AI
+* Player Behaviour Analytics
+* Explainable AI
+* Interaction-Aware Learning
+* Intelligent Game Development
+* Large Language Models for Games
+* Imitation Learning
 
-## Research Direction
+## Featured Projects
 
-My long-term goal is to develop AI systems that can reason over complex game knowledge, learn decision-making strategies through methods such as large language models and imitation learning, and support intelligent tools for game design and development.
+🔬 **GameMetaDroid** *(coming soon)*
+A large-scale research dataset for mobile game analytics and AI research.
 
-## Selected Work
+📊 **Interaction Analysis for Game Analytics**
+Research exploring how interactions between game features influence player engagement and game success.
 
-- **GameMetaDroid** — active PhD research dataset under development
-- **Interaction Analysis for Game Analytics** — manuscript in preparation
-- **TTAG+R Dataset** — published dataset on Google Play trending games and user reviews
-- **Unity Game Portfolio** — coming soon
-- **VR Tic-Tac-Toe** — Unity VR/XR coursework project
-- **Limbo-inspired 2D Platformer** — early Unity game development project
+🎮 **Unity Game Portfolio** *(coming soon)*
+A collection of Unity projects demonstrating gameplay programming, VR/XR development, and interactive systems.
 
-## Technical Areas
+🕹️ **VR Tic-Tac-Toe**
+A Unity VR/XR prototype developed during my PhD coursework.
 
-**AI & Data:** Python, Machine Learning, Explainable AI, Data Mining, Statistical Analysis, Pandas, NumPy, Scikit-learn  
-**Games:** Unity3D, C#, Gameplay Programming, VR/XR, Interactive Systems  
-**Tools:** Git, GitHub, Linux, Jupyter Notebook, Overleaf/LaTeX
+🎮 **Limbo-inspired 2D Platformer**
+A Unity project exploring gameplay mechanics, physics, and level design.
 
-## Connect
+## Technical Stack
 
-- LinkedIn: https://www.linkedin.com/in/raheela-chand-67769711b
-- ResearchGate: https://www.researchgate.net/scientific-contributions/Raheela-Chand-2247885170
-- Email: raheela.chand@yahoo.com
+**Languages:** Python, C#, SQL, Java
+**AI & Data:** Machine Learning, Pandas, NumPy, Scikit-learn, Statistical Analysis
+**Game Development:** Unity, Gameplay Programming, VR/XR, Interactive Systems
+**Tools:** Git, GitHub, Linux, Jupyter Notebook, LaTeX
+
+---
+
+**Current focus:** Building AI systems that help understand player behaviour, reason over complex game data, and support the next generation of intelligent game development tools.
+
+### Connect
+
+* LinkedIn: https://www.linkedin.com/in/raheela-chand-67769711b
+* ResearchGate: https://www.researchgate.net/scientific-contributions/Raheela-Chand-2247885170
+* Email: [raheela.chand@yahoo.com](mailto:raheela.chand@yahoo.com)
