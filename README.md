@@ -18,13 +18,24 @@ Before starting my PhD, I worked as a **Unity developer**, building commercial m
 * Large Language Models for Games
 * Imitation Learning
 
-## Featured Projects
+## Research & Selected Projects
 
 🔬 **GameMetaDroid** *(coming soon)*
-A large-scale research dataset for mobile game analytics and AI research.
+A large-scale research dataset for mobile game analytics and AI for Games research. This will become the flagship repository of my PhD research.
 
-📊 **Interaction Analysis for Game Analytics**
-Research exploring how interactions between game features influence player engagement and game success.
+📊 **Interaction Analysis for Game Analytics** *(coming soon)*
+Research investigating how interactions between game features influence player engagement and game success using interpretable machine learning.
+
+📚 **Published Research Repositories** *(AndroidGamesResearch)*
+
+Repositories maintained under my **AndroidGamesResearch** organization to support reproducible AI, software engineering, and game analytics research:
+
+- **TTAG+R Dataset** – A published dataset of Google Play's top trending Android games and user reviews. *(IEEE)*
+- **Dataset of Software Quality Attributes** – Dataset accompanying our software quality research.
+- **Mapping Android Features to Quality Attributes** – Research artifacts for feature–quality relationship analysis.
+- **Visual Ethics for UI/UX in Android Game Apps** – Dataset and analysis supporting our published study on visual ethics in mobile games.
+
+➡️ **Research Organization:** https://github.com/AndroidGamesResearch
 
 🎮 **Unity Game Portfolio** *(coming soon)*
 A collection of Unity projects demonstrating gameplay programming, VR/XR development, and interactive systems.
