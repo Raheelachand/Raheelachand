@@ -64,8 +64,6 @@ Selected projects and repositories will be added progressively as they are prepa
 
 **Development Tools:** Git, GitHub, Linux, Visual Studio, VS Code, LaTeX
 
-**Current focus:** Building AI systems that help understand player behaviour, reason over complex game data, and support the next generation of intelligent game development tools.
-
 ## Currently Learning
 
 I'm currently expanding my expertise in:
@@ -73,6 +71,12 @@ I'm currently expanding my expertise in:
 - Reinforcement Learning
 - Imitation Learning
 - Large Language Models (LLMs) and AI Agents for Games
+
+---
+
+## Current Focus
+
+Building AI systems that understand player behaviour, reason over complex game data, and support the next generation of intelligent game development tools. My current research explores interpretable AI, computational game analytics, and interaction-aware learning, with a long-term goal of developing intelligent AI collaborators for game design and development.
 
 ### Connect
 
