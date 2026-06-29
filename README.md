@@ -37,11 +37,11 @@ Repositories maintained under my **AndroidGamesResearch** organization to suppor
 
 ➡️ **Research Organization:** https://github.com/AndroidGamesResearch
 
-🎮 **Unity Development Portfolio** *(coming soon)*
+## Unity Development Portfolio *(coming soon)*
 
 I'm currently curating my Unity development portfolio, which will showcase commercial, academic, and personal projects developed over the past several years. As many of these projects span previous employment, freelance work, and academic research, the portfolio is being rebuilt with updated documentation, screenshots, and demonstrations.
 
-The portfolio will include:
+🎮 The portfolio will include:
 
 * Commercial Unity mobile games
 * VR/XR applications and prototypes
@@ -72,7 +72,7 @@ I'm currently expanding my expertise in:
 - Imitation Learning
 - Large Language Models (LLMs) and AI Agents for Games
 
----
+--
 
 ## Current Focus
 
