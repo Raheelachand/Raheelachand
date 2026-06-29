@@ -76,7 +76,7 @@ I'm currently expanding my expertise in:
 
 ## Current Focus
 
-Building AI systems that understand player behaviour, reason over complex game data, and support the next generation of intelligent game development tools. My current research explores interpretable AI, computational game analytics, and interaction-aware learning, with a long-term goal of developing intelligent AI collaborators for game design and development.
+Building AI systems that understand player behaviour, reason over complex game data, and support the next generation of intelligent game development tools. My current research explores interpretable AI, computational game analytics, and interaction-aware learning, with a long-term goal of developing intelligent AI collaborators for game design and development. 
 
 ### Connect
 
