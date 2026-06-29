@@ -37,14 +37,20 @@ Repositories maintained under my **AndroidGamesResearch** organization to suppor
 
 ➡️ **Research Organization:** https://github.com/AndroidGamesResearch
 
-🎮 **Unity Game Portfolio** *(coming soon)*
-A collection of Unity projects demonstrating gameplay programming, VR/XR development, and interactive systems.
+🎮 **Unity Development Portfolio** *(coming soon)*
 
-🕹️ **VR Tic-Tac-Toe**
-A Unity VR/XR prototype developed during my PhD coursework.
+I'm currently curating my Unity development portfolio, which will showcase commercial, academic, and personal projects developed over the past several years. As many of these projects span previous employment, freelance work, and academic research, the portfolio is being rebuilt with updated documentation, screenshots, and demonstrations.
 
-🎮 **Limbo-inspired 2D Platformer**
-A Unity project exploring gameplay mechanics, physics, and level design.
+The portfolio will include:
+
+* Commercial Unity mobile games
+* VR/XR applications and prototypes
+* Gameplay programming and interactive systems
+* AI-assisted game development experiments
+* Technical write-ups and project documentation
+
+Selected projects and repositories will be added progressively as they are prepared for publication.
+
 
 ## Technical Stack
 
