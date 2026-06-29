@@ -54,14 +54,25 @@ Selected projects and repositories will be added progressively as they are prepa
 
 ## Technical Stack
 
-**Languages:** Python, C#, SQL, Java
-**AI & Data:** Machine Learning, Pandas, NumPy, Scikit-learn, Statistical Analysis
-**Game Development:** Unity, Gameplay Programming, VR/XR, Interactive Systems
-**Tools:** Git, GitHub, Linux, Jupyter Notebook, LaTeX
+**Programming Languages:** C#, Python, SQL, JavaScript, Java, C, Bash
 
----
+**AI & Machine Learning:** Machine Learning, Deep Learning, Explainable AI (XAI), Natural Language Processing, Text Mining, Statistical Analysis, Predictive Modelling, Graph Analytics
+
+**AI Frameworks & Data Science:** PyTorch, TensorFlow, Hugging Face, Scikit-learn, Pandas, NumPy, PySpark, Jupyter, SPSS, MATLAB
+
+**Unity & Game Development:** Unity, Gameplay Programming, UI Development, Physics, Animation, VR/XR, Multiplayer, Mobile Development, Performance Optimization
+
+**Development Tools:** Git, GitHub, Linux, Visual Studio, VS Code, LaTeX
 
 **Current focus:** Building AI systems that help understand player behaviour, reason over complex game data, and support the next generation of intelligent game development tools.
+
+## Currently Learning
+
+I'm currently expanding my expertise in:
+
+- Reinforcement Learning
+- Imitation Learning
+- Large Language Models (LLMs) and AI Agents for Games
 
 ### Connect
 
