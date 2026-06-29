@@ -78,7 +78,7 @@ I'm currently expanding my expertise in:
 
 Building AI systems that understand player behaviour, reason over complex game data, and support the next generation of intelligent game development tools. My current research explores interpretable AI, computational game analytics, and interaction-aware learning, with a long-term goal of developing intelligent AI collaborators for game design and development. 
 
-### Connect
+## Connect
 
 * LinkedIn: https://www.linkedin.com/in/raheela-chand-67769711b
 * ResearchGate: https://www.researchgate.net/scientific-contributions/Raheela-Chand-2247885170
