@@ -95,8 +95,6 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
-<hr style="height:4px; background-color:#d0d7de; border:none;">
-
 ## 🌀 Fidget Spinner
 
 <p>
