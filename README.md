@@ -66,7 +66,7 @@ including player interaction and UI systems.
 
 ### Curling Game
 
-<p>
+<p>   📱 Mobile Game
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="20"> Unity
   &nbsp;·&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20"> C#
@@ -75,8 +75,6 @@ including player interaction and UI systems.
   &nbsp;·&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="20"> Android
 </p>
-
-**Mobile Game · Unity · C# · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="20" alt="Android"> iOS & Android**
 
 Developed the USA Curling mobile game in Unity for iOS and Android as part of my professional work, implementing core gameplay, player-controlled shots, sweeping interactions, scoring, and two-player mechanics.
 
