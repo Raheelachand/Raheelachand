@@ -52,8 +52,7 @@ Transformed theoretical software quality models into reusable, machine-readable 
 
 ## 🎮 Game Development
 
-Before transitioning into research, I worked professionally and independently
-with Unity on mobile, cross-platform, VR/XR, and interactive game projects.
+Before transitioning into research, I worked professionally and independently with Unity on mobile, cross-platform, VR/XR, and interactive game projects.
 
 
 ### Bubble Buster
