@@ -78,7 +78,7 @@ including player interaction and UI systems.
 
 Developed the USA Curling mobile game in Unity for iOS and Android as part of my professional work, implementing core gameplay, player-controlled shots, sweeping interactions, scoring, two-player mechanics, and online multiplayer. The game also featured in-game advertising and sponsor banner integrations, incorporating branded promotional content throughout the gameplay experience.
 
-### * Key Features & Technical Highlights
+### - Key Features & Technical Highlights
 
 - **Online Multiplayer** — two-player networked gameplay
 - **Physics-Based Gameplay** — curling stone movement and interactions
@@ -89,7 +89,7 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
 
 **Project:** [USA Curling](https://www.teamusa.com/)
 
-<h3> * Gameplay Screenshots</h3>
+<h3> - Gameplay Screenshots</h3>
 
 <p>
   <img src="Assets/curling_game/gameplay_1.png" width="180">
