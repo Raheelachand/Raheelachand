@@ -22,16 +22,16 @@
 
 Created an open-source, research-ready dataset combining **394 top-trending Android games** with **8,423 user reviews** across **17 game genres** and three Google Play categories: Top Free, Top Paid, and Top Grossing. The dataset provides structured game metadata and user feedback to enable reproducible, data-driven and ML-based research on Android games, user concerns, market trends, and software quality.
 
-**Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10077024)  
-**Data & Code:** [View repository](https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews)
+* 📄 **Paper:** https://ieeexplore.ieee.org/document/10077024
+* 💻 **Repository:** https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews
 
 
 ### An ML-Based Quality Features Extraction (QFE) Framework for Android Apps
 
 Developed an automated framework that analyzes Android app user reviews and maps user-reported concerns to software quality attributes, turning unstructured feedback into structured, quality-focused information for software evaluation.
 
-**Paper:** [Springer](https://link.springer.com/chapter/10.1007/978-3-031-45651-0_27)  
-**Code & Research Artifacts:** [View repository]((https://github.com/AndroidGamesResearch/Dataset-of-Software-Quality-Attributes))
+* 📄 **Paper:** https://link.springer.com/chapter/10.1007/978-3-031-45651-0_27
+* 💻 **Repository:** https://github.com/AndroidGamesResearch/Dataset-of-Software-Quality-Attributes
 
 
 ### Exploring Software Quality Through Data-Driven Approaches and Knowledge Graphs
