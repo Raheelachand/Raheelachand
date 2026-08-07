@@ -56,15 +56,6 @@ Transformed theoretical software quality models into reusable, machine-readable 
 
 Before transitioning into research, I worked professionally and independently with Unity on mobile, cross-platform, VR/XR, and interactive game projects.
 
-
-### Bubble Buster
-**Commercial Mobile Game · Unity**
-
-Developed gameplay systems and core mechanics using Unity and C#,
-including player interaction and UI systems.
-
-[View project](PROJECT_LINK)
-
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
 ## 🥌 USA Curling Game
@@ -104,6 +95,8 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
+<hr style="height:4px; background-color:#d0d7de; border:none;">
+
 ## 🌀 Fidget Spinner
 
 <p>
@@ -130,6 +123,7 @@ Developed a cross-platform Fidget Spinner game in Unity for Apple TV (tvOS), iOS
 
 [View project](PROJECT_LINK)
 
+<hr style="height:4px; background-color:#d0d7de; border:none;">
 
 ## ❌⭕ VR Tic-Tac-Toe
 <p>
@@ -163,3 +157,4 @@ Developed a VR Tic-Tac-Toe game in Unity, featuring immersive controller-based i
 - **Hit & Run Shooter**
 - **2D Car Racing**
 - **3D Cubes**
+- **Bubble Buster**
