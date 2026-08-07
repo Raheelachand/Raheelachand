@@ -65,7 +65,13 @@ including player interaction and UI systems.
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
-### Curling Game
+<h1>
+  <img src="usa_curling_logo.png" width="45" 
+       style="vertical-align: middle;">
+  USA Curling Game
+</h1>
+
+### USA Curling Game
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="20"> Unity
   &nbsp;·&nbsp;
