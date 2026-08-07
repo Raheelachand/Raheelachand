@@ -66,7 +66,7 @@ including player interaction and UI systems.
 
 ### Curling Game
 
-**Mobile Game · Unity · C# · iOS & Android**
+**Mobile Game · Unity · C# · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" alt="Android"> iOS & Android**
 
 Developed the USA Curling mobile game in Unity for iOS and Android as part of my professional work, implementing core gameplay, player-controlled shots, sweeping interactions, scoring, and two-player mechanics.
 
