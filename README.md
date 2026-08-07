@@ -155,8 +155,15 @@ Developed a VR Tic-Tac-Toe game in Unity, featuring immersive controller-based i
 - **Motion-Sickness-Aware Design** — stationary gameplay with minimal artificial movement
 - **Spatial UI** — VR-friendly interface positioned within the 3D environment
 - **Oculus Quest 2** — standalone VR deployment
-- 
-[View project](PROJECT_LINK)
+
+[View project](Assets/fidgetspinner/Assets/VR_TicTacToe)
+
+<p>
+  <img src="Assets/fidgetspinner/Assets/VR_TicTacToe/VR_TicTacTo_mainMenu.png" width="180">
+   <img src="Assets/fidgetspinner/VR_TicTacToe/VR_TicTacTo_gamePlay.png" width="180">
+  <img src="Assets/fidgetspinner/VR_TicTacToe/VR_TicTacTo_howToPlay.png" width="180">
+  <img src="Assets/fidgetspinner/VR_TicTacToe/VR_TicTacTo_scoreBoard.png" width="180">
+</p>
 
 
 ### Selected Unity Projects
