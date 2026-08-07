@@ -1,6 +1,5 @@
 # Hi, I'm Raheela Chand 👋
 **PhD Researcher @ University of Turku | AI for Games • Game Analytics • Data-Centric AI | Unity Developer**
----
 
 ## Research Interests
 
