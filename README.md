@@ -66,7 +66,7 @@ including player interaction and UI systems.
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
 <h1>
-  <img src="usa_curling_logo.png" width="45" 
+  <img src="Assets/curling_game/USA_curling_logo.png" width="45" 
        style="vertical-align: middle;">
   USA Curling Game
 </h1>
