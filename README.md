@@ -70,6 +70,10 @@ including player interaction and UI systems.
        style="vertical-align: middle;">
   USA Curling Game
 </h1>
+<h1>
+  <img src="usa-curling-logo.png" width="40" style="vertical-align: middle;">
+  USA Curling Game
+</h1>
 
 ### USA Curling Game
 <p>
