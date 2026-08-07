@@ -123,6 +123,16 @@ Developed a cross-platform Fidget Spinner game in Unity for Apple TV (tvOS), iOS
 
 [View project](Assets/fidgetspinner)
 
+<p>
+  <img src="Assets/fidgetspinner/fidgetspinner_play_instructions.png" width="180">
+   <img src="Assets/fidgetspinner/fidgetspinner_two_players.png" width="180">
+  <img src="Assets/fidgetspinner/fidgetspinner_choose_spinner.png width="180">
+  <img src="Assets/fidgetspinner/fidgetspinner_purchase.png" width="180">
+   <img src="Assets/fidgetspinner/fidgetspinner_invite_friends.png" width="180">
+  <img src="Assets/fidgetspinner/fidgetspinner_seasonal_events.png" width="180">
+   <img src="Assets/fidgetspinner/fidgetspinner_leaderboard.png" width="180">
+</p>
+
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
 ## ❌⭕ VR Tic-Tac-Toe
