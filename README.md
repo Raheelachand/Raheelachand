@@ -65,15 +65,12 @@ including player interaction and UI systems.
 
 
 ### Curling Game
-**Published Cross-Platform Game · Unity**
-
-Developed as part of my professional Unity development work for
-cross-platform deployment.
-
 
 **Mobile Game · Unity · C# · iOS & Android**
 
-Developed the USA Curling mobile game in Unity for iOS and Android, implementing the core curling gameplay, player-controlled shots, sweeping interactions, scoring, and two-player mechanics.
+Developed the USA Curling mobile game in Unity for iOS and Android as part of my professional work, implementing core gameplay, player-controlled shots, sweeping interactions, scoring, and two-player mechanics.
+
+*Developed during my employment; all game assets, trademarks, and intellectual property belong to their respective owners.*
 
 **Project:** [USA Curling](https://www.teamusa.com/)
 
