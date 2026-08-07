@@ -38,8 +38,8 @@ Developed an automated framework that analyzes Android app user reviews and maps
 
 Transformed theoretical software quality models into reusable, machine-readable resources—including structured datasets, CSV files, Python dictionaries, and knowledge graphs—bridging the gap between conceptual quality models and computational analysis.
 
-**Paper:** [Springer]([(https://link.springer.com/chapter/10.1007/978-3-031-60328-0_37)])  
-**Code & Research Artifacts:** [View repository](https://github.com/AndroidGamesResearch/MappingAndroidFeaturesToQualityAttributes)
+* 📄 **Paper:** https://link.springer.com/chapter/10.1007/978-3-031-60328-0_37
+* 💻 **Code & Research Artifacts:** https://github.com/AndroidGamesResearch/MappingAndroidFeaturesToQualityAttributes
 
 
 ## Game Development
