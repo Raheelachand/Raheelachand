@@ -103,20 +103,15 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
 ### Fidget Spinner
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="20"> Unity
   &nbsp;·&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20"> C#
   &nbsp;·&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="20"> iOS
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="20"> tvOS / Apple TV & iOS
   &nbsp;·&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="20"> Android
-  &nbsp;·&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="20"> tvOS / Apple TV
 </p>
 
 Developed a cross-platform Fidget Spinner game in Unity for Apple TV (tvOS), iOS, and Android, featuring two-player competitive gameplay, physics-based spinning mechanics, multiple selectable spinner designs, platform-specific controls, customization, and in-app purchases (IAP).
