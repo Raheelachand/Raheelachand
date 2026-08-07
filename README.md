@@ -73,6 +73,9 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
 *Developed during my employment; all game assets, trademarks, and intellectual property belong to their respective owners.*
 
 **Project:** [USA Curling](https://www.teamusa.com/)
+<p align="center">
+  <img src="Assets/curling_game/Curling_gameplay_screenshots.png" width="85%" alt="USA Curling gameplay showcase"/>
+</p>
 
 
 ### Fidget Spinner
