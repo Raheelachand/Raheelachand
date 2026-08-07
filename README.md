@@ -121,7 +121,7 @@ Developed a cross-platform Fidget Spinner game in Unity for Apple TV (tvOS), iOS
 - **Customization System** — selectable and unlockable spinner variations
 - **In-App Purchases (IAP)** — additional content and customization
 
-[View project](PROJECT_LINK)
+[View project](Assets/fidgetspinner)
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
