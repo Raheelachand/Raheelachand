@@ -23,7 +23,7 @@
 Created an open-source, research-ready dataset combining **394 top-trending Android games** with **8,423 user reviews** across **17 game genres** and three Google Play categories: Top Free, Top Paid, and Top Grossing. The dataset provides structured game metadata and user feedback to enable reproducible, data-driven and ML-based research on Android games, user concerns, market trends, and software quality.
 
 * 📄 **Paper:** https://ieeexplore.ieee.org/document/10077024
-* 💻 **Repository:** https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews
+* </> **Repository:** https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews
 
 
 ### An ML-Based Quality Features Extraction (QFE) Framework for Android Apps
