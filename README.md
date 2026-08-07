@@ -2,10 +2,6 @@
 
 **PhD Researcher @ University of Turku | AI for Games • Game Analytics • Data-Centric AI | Former Unity Developer**
 
-I'm a PhD researcher at the **University of Turku** exploring how AI can better understand games, players, and game development. My research combines **large-scale game datasets**, **machine learning**, and **explainable AI** to build intelligent systems that support evidence-based decision making in games.
-
-Before starting my PhD, I worked as a **Unity developer**, building commercial mobile games and interactive systems. Today, I combine that industry experience with research, developing datasets, analytical frameworks, and AI-driven tools for game development.
-
 ## Research Interests
 
 * AI for Games
@@ -21,63 +17,162 @@ Before starting my PhD, I worked as a **Unity developer**, building commercial m
 ## Research & Selected Projects
 
 🔬 **GameMetaDroid** *(coming soon)*
-A large-scale research dataset for mobile game analytics and AI for Games research. This will become the flagship repository of my PhD research.
+A large-scale research dataset for mobile game analytics and AI for Games research. 
+
+📄 **Paper:** [Paper Link]  
+💾 **Dataset & Repository:** [Repository Link]
 
 📊 **Interaction Analysis for Game Analytics** *(coming soon)*
 Research investigating how interactions between game features influence player engagement and game success using interpretable machine learning.
 
-📚 **Published Research Repositories** *(AndroidGamesResearch)*
+## 📱 TTAG+R
+### A Dataset of Google Play Store's Top-Trending Android Games and User Reviews
 
-Repositories maintained under my **AndroidGamesResearch** organization to support reproducible AI, software engineering, and game analytics research:
+> **Research Problem:**  
+> [Add 2–3 lines describing the motivation and research gap.]
 
-- **TTAG+R Dataset** – A published dataset of Google Play's top trending Android games and user reviews. *(IEEE)*
-- **Dataset of Software Quality Attributes** – Dataset accompanying our software quality research.
-- **Mapping Android Features to Quality Attributes** – Research artifacts for feature–quality relationship analysis.
-- **Visual Ethics for UI/UX in Android Game Apps** – Dataset and analysis supporting our published study on visual ethics in mobile games.
+**Approach & Contribution:**  
+[Add 2–3 lines describing what was collected/developed and your contribution.]
 
-➡️ **Research Organization:** https://github.com/AndroidGamesResearch
-
-## Unity Development Portfolio *(coming soon)*
-
-I'm currently curating my Unity development portfolio, which will showcase commercial, academic, and personal projects developed over the past several years. As many of these projects span previous employment, freelance work, and academic research, the portfolio is being rebuilt with updated documentation, screenshots, and demonstrations.
-
-🎮 The portfolio will include:
-
-* Commercial Unity mobile games
-* VR/XR applications and prototypes
-* Gameplay programming and interactive systems
-* AI-assisted game development experiments
-* Technical write-ups and project documentation
-
-Selected projects and repositories will be added progressively as they are prepared for publication.
-
-
-## Technical Stack
-
-**Programming Languages:** C#, Python, SQL, JavaScript, Java, C, Bash
-
-**AI & Machine Learning:** Machine Learning, Deep Learning, Explainable AI (XAI), Natural Language Processing, Text Mining, Statistical Analysis, Predictive Modelling, Graph Analytics
-
-**AI Frameworks & Data Science:** PyTorch, TensorFlow, Hugging Face, Scikit-learn, Pandas, NumPy, PySpark, Jupyter, SPSS, MATLAB
-
-**Unity & Game Development:** Unity, Gameplay Programming, UI Development, Physics, Animation, VR/XR, Multiplayer, Mobile Development, Performance Optimization
-
-**Development Tools:** Git, GitHub, Linux, Visual Studio, VS Code, LaTeX
-
-## Currently Learning
-
-I'm currently expanding my expertise in:
-
-- Reinforcement Learning
-- Imitation Learning
-- Large Language Models (LLMs) and AI Agents for Games
+📄 **Paper:** [IEEE Xplore](PAPER_LINK)  
+💾 **Dataset & Repository:** [AndroidGamesResearch](REPOSITORY_LINK)
 
 ---
 
-### Current Focus
+## 🤖 ML-Based Quality Features Extraction for Android Apps
+### Machine Learning for Android Software Quality Analysis
 
-Building AI systems that understand player behaviour, reason over complex game data, and support the next generation of intelligent game development tools. My current research explores interpretable AI, computational game analytics, and interaction-aware learning, with a long-term goal of developing intelligent AI collaborators for game design and development. 
+> **Research Problem:**  
+> [Add 2–3 lines describing the software-quality problem addressed.]
 
+**Approach & Contribution:**  
+[Add 2–3 lines describing the ML approach and research contribution.]
+
+📄 **Paper:** [Springer](PAPER_LINK)  
+💾 **Dataset & Repository:** [AndroidGamesResearch](REPOSITORY_LINK)
+
+---
+
+## 🔗 Exploring Software Quality Through Data-Driven Approaches and Knowledge Graphs
+
+> **Research Problem:**  
+> [Add 2–3 lines describing the research problem.]
+
+**Approach & Contribution:**  
+[Add 2–3 lines describing the data-driven / graph-based approach and contribution.]
+
+📄 **Paper:** [Springer](PAPER_LINK)  
+💾 **Research Artifacts:** [AndroidGamesResearch](REPOSITORY_LINK)
+
+---
+
+## 🎨 Visual Ethics for UI/UX in Android Game Apps
+
+> **Research Problem:**  
+> [Add 2–3 lines describing the research problem.]
+
+**Approach & Contribution:**  
+[Add 2–3 lines describing the study and your contribution.]
+
+📄 **Paper:** [Read Paper](PAPER_LINK)  
+💾 **Dataset & Repository:** [AndroidGamesResearch](REPOSITORY_LINK)
+
+---
+
+# 🎮 Unity & Game Development
+
+Selected professional, freelance, and academic game-development work.
+
+## 🫧 Bubble Buster
+### Commercial Mobile Game
+
+**Unity • C# • Mobile**
+
+[Add 2–3 lines describing the gameplay systems, mechanics, UI, or other parts you developed.]
+
+🎮 **Project / Media:** [View Project](PROJECT_LINK)
+
+---
+
+## 🥌 Curling Game
+### Published Cross-Platform Game
+
+**Unity • C# • Cross-Platform**
+
+[Add 2–3 lines describing the game and your development contribution.]
+
+🎮 **Project / Media:** [View Project](PROJECT_LINK)
+
+---
+
+## 📺 Fidget Spinner
+### Apple TV Game
+
+**Unity • C# • Apple TV**
+
+[Add 2–3 lines describing your development contribution.]
+
+🎮 **Project / Media:** [View Project](PROJECT_LINK)
+
+---
+
+## 🥽 VR Tic-Tac-Toe
+### VR/XR Prototype
+
+**Unity • C# • VR/XR**
+
+[Add 2–3 lines describing the prototype, interactions, and systems you developed.]
+
+💻 **Project:** [View Project](PROJECT_LINK)
+
+---
+
+## 🌑 Limbo-Inspired 2D Platformer
+### 2D Game Development Project
+
+**Unity • C# • 2D Physics**
+
+[Add 2–3 lines describing the gameplay, mechanics, and systems you implemented.]
+
+💻 **Project:** [View Project](PROJECT_LINK)
+
+---
+
+## 🔫 Hit & Run Shooter
+
+**Unity • C#**
+
+[Add 2–3 lines describing the project and your contribution.]
+
+💻 **Project:** [View Project](PROJECT_LINK)
+
+---
+
+## 🏎️ 2D Car Racing
+
+**Unity • C# • 2D**
+
+[Add 2–3 lines describing the project and your contribution.]
+
+💻 **Project:** [View Project](PROJECT_LINK)
+
+---
+
+## 🧊 3D Cubes
+
+**Unity • C# • 3D**
+
+[Add 2–3 lines describing the project and your contribution.]
+
+💻 **Project:** [View Project](PROJECT_LINK)
+
+---
+
+## 🔗 Research & Professional Profiles
+
+[ResearchGate]([RESEARCHGATE_LINK](https://www.researchgate.net/scientific-contributions/Raheela-Chand-2247885170)) •
+[Google Scholar](GOOGLE_SCHOLAR_LINK) •
+[LinkedIn]([LINKEDIN_LINK](https://www.linkedin.com/in/raheela-chand-67769711b))
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/raheela-chand-67769711b
