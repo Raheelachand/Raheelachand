@@ -17,7 +17,7 @@
 
 ## 💻 Published Research
 
-### 📚 TTAG+R - A Dataset of Google Play Store's Top Trending Android Games and User Reviews
+#### 📚 TTAG+R - A Dataset of Google Play Store's Top Trending Android Games and User Reviews
 
 A large-scale dataset of Google Play's top trending Android games and user reviews supporting research in game analytics, machine learning, and software engineering.
 
@@ -27,7 +27,7 @@ A large-scale dataset of Google Play's top trending Android games and user revie
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
 
-### 📚 An ML-Based Quality Features Extraction (QFE) Framework for Android Apps
+#### 📚 An ML-Based Quality Features Extraction (QFE) Framework for Android Apps
 
 Developed an automated framework that analyzes Android app user reviews and maps user-reported concerns to software quality attributes, turning unstructured feedback into structured, quality-focused information for software evaluation.
 
@@ -36,7 +36,7 @@ Developed an automated framework that analyzes Android app user reviews and maps
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
-### 📚 Exploring Software Quality Through Data-Driven Approaches and Knowledge Graphs
+#### 📚 Exploring Software Quality Through Data-Driven Approaches and Knowledge Graphs
 
 Transformed theoretical software quality models into reusable, machine-readable resources—including structured datasets, CSV files, Python dictionaries, and knowledge graphs—bridging the gap between conceptual quality models and computational analysis.
 
