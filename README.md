@@ -70,7 +70,12 @@ including player interaction and UI systems.
 Developed as part of my professional Unity development work for
 cross-platform deployment.
 
-[View project](PROJECT_LINK)
+
+**Mobile Game · Unity · C# · iOS & Android**
+
+Developed the USA Curling mobile game in Unity for iOS and Android, implementing the core curling gameplay, player-controlled shots, sweeping interactions, scoring, and two-player mechanics.
+
+**Project:** [USA Curling](https://www.teamusa.com/)
 
 
 ### Fidget Spinner
