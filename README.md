@@ -64,6 +64,7 @@ including player interaction and UI systems.
 [View project](PROJECT_LINK)
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
+
 ### Curling Game
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="20"> Unity
