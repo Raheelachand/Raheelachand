@@ -159,10 +159,10 @@ Developed a VR Tic-Tac-Toe game in Unity, featuring immersive controller-based i
 [View project](Assets/fidgetspinner/Assets/VR_TicTacToe)
 
 <p>
-  <img src="Assets/fidgetspinner/Assets/VR_TicTacToe/VR_TicTacTo_mainMenu.png" width="180">
-   <img src="Assets/fidgetspinner/VR_TicTacToe/VR_TicTacTo_gamePlay.png" width="180">
-  <img src="Assets/fidgetspinner/VR_TicTacToe/VR_TicTacTo_howToPlay.png" width="180">
-  <img src="Assets/fidgetspinner/VR_TicTacToe/VR_TicTacTo_scoreBoard.png" width="180">
+  <img src="Assets/VR_TicTacToe/VR_TicTacTo_gamePlay.png" width="180">
+   <img src="Assets/VR_TicTacToe/VR_TicTacTo_gamePlay.png" width="180">
+  <img src="Assets/VR_TicTacToe/VR_TicTacTo_howToPlay.png" width="180">
+  <img src="Assets/VR_TicTacToe/VR_TicTacTo_scoreBoard.png" width="180">
 </p>
 
 
