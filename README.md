@@ -50,6 +50,8 @@ Transformed theoretical software quality models into reusable, machine-readable 
 * **GameMetaDroid** *(under development)* — A large-scale dataset for AI-driven mobile game analytics.
 * **Interaction Analysis for Game Analytics** *(in progress)* — Research on interaction-aware learning and interpretable machine learning for understanding game success.
 
+<hr style="height:6px; background-color:#d0d7de; border:none;">
+
 ## 🎮 Game Development
 
 Before transitioning into research, I worked professionally and independently with Unity on mobile, cross-platform, VR/XR, and interactive game projects.
