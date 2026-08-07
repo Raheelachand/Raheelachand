@@ -1,6 +1,7 @@
 # Hi, I'm Raheela Chand 👋
 
 **PhD Researcher @ University of Turku | AI for Games • Game Analytics • Data-Centric AI | Unity Developer**
+  ---
 
 ## Research Interests
 
@@ -17,6 +18,7 @@
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
 ## 💻 Published Research
+---
 
 ### 📚 TTAG+R - A Dataset of Google Play Store's Top Trending Android Games and User Reviews
 
@@ -24,6 +26,8 @@ Created an open-source, research-ready dataset combining **394 top-trending Andr
 
 * 📄 **Publication:** https://ieeexplore.ieee.org/document/10077024
 * </> **Repository:** https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews
+
+  <hr style="height:4px; background-color:#d0d7de; border:none;">
 
 
 ### 📚 An ML-Based Quality Features Extraction (QFE) Framework for Android Apps
@@ -33,6 +37,7 @@ Developed an automated framework that analyzes Android app user reviews and maps
 * 📄 **Publication:** https://link.springer.com/chapter/10.1007/978-3-031-45651-0_27
 * </> **Code & Research Artifacts:** https://github.com/AndroidGamesResearch/Dataset-of-Software-Quality-Attributes
 
+<hr style="height:4px; background-color:#d0d7de; border:none;">
 
 ### 📚 Exploring Software Quality Through Data-Driven Approaches and Knowledge Graphs
 
@@ -41,8 +46,10 @@ Transformed theoretical software quality models into reusable, machine-readable 
 * 📄 **Publication:** https://link.springer.com/chapter/10.1007/978-3-031-60328-0_37
 * </> **Code & Research Artifacts:** https://github.com/AndroidGamesResearch/MappingAndroidFeaturesToQualityAttributes
 
+<hr style="height:4px; background-color:#d0d7de; border:none;">
 
 ## Ongoing Research
+---
 
 * **GameMetaDroid** *(under development)* — A large-scale dataset for AI-driven mobile game analytics.
 * **Interaction Analysis for Game Analytics** *(in progress)* — Research on interaction-aware learning and interpretable machine learning for understanding game success.
