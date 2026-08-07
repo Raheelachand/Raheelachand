@@ -1,7 +1,6 @@
 # Hi, I'm Raheela Chand 👋
-
 **PhD Researcher @ University of Turku | AI for Games • Game Analytics • Data-Centric AI | Unity Developer**
-  ---
+---
 
 ## Research Interests
 
@@ -27,7 +26,7 @@ Created an open-source, research-ready dataset combining **394 top-trending Andr
 * 📄 **Publication:** https://ieeexplore.ieee.org/document/10077024
 * </> **Repository:** https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews
 
-  <hr style="height:4px; background-color:#d0d7de; border:none;">
+<hr style="height:4px; background-color:#d0d7de; border:none;">
 
 
 ### 📚 An ML-Based Quality Features Extraction (QFE) Framework for Android Apps
@@ -54,8 +53,7 @@ Transformed theoretical software quality models into reusable, machine-readable 
 * **GameMetaDroid** *(under development)* — A large-scale dataset for AI-driven mobile game analytics.
 * **Interaction Analysis for Game Analytics** *(in progress)* — Research on interaction-aware learning and interpretable machine learning for understanding game success.
 
-  ---
-
+<hr style="height:4px; background-color:#d0d7de; border:none;">
 
 ## 🎮 Game Development
 
