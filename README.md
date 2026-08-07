@@ -22,7 +22,7 @@
 
 Created an open-source, research-ready dataset combining **394 top-trending Android games** with **8,423 user reviews** across **17 game genres** and three Google Play categories: Top Free, Top Paid, and Top Grossing. The dataset provides structured game metadata and user feedback to enable reproducible, data-driven and ML-based research on Android games, user concerns, market trends, and software quality.
 
-* 📄 **Paper:** https://ieeexplore.ieee.org/document/10077024
+* 📄 **Publication:** https://ieeexplore.ieee.org/document/10077024
 * </> ** Repository:** https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews
 
 
@@ -30,7 +30,7 @@ Created an open-source, research-ready dataset combining **394 top-trending Andr
 
 Developed an automated framework that analyzes Android app user reviews and maps user-reported concerns to software quality attributes, turning unstructured feedback into structured, quality-focused information for software evaluation.
 
-* 📄 **Paper:** https://link.springer.com/chapter/10.1007/978-3-031-45651-0_27
+* 📄 **Publication:** https://link.springer.com/chapter/10.1007/978-3-031-45651-0_27
 * </> **Code & Research Artifacts:** https://github.com/AndroidGamesResearch/Dataset-of-Software-Quality-Attributes
 
 
@@ -38,7 +38,7 @@ Developed an automated framework that analyzes Android app user reviews and maps
 
 Transformed theoretical software quality models into reusable, machine-readable resources—including structured datasets, CSV files, Python dictionaries, and knowledge graphs—bridging the gap between conceptual quality models and computational analysis.
 
-* 📄 **Paper:** https://link.springer.com/chapter/10.1007/978-3-031-60328-0_37
+* 📄 **Publication:** https://link.springer.com/chapter/10.1007/978-3-031-60328-0_37
 * </> **Code & Research Artifacts:** https://github.com/AndroidGamesResearch/MappingAndroidFeaturesToQualityAttributes
 
 
