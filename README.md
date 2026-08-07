@@ -16,7 +16,6 @@
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
 ## 💻 Published Research
----
 
 ### 📚 TTAG+R - A Dataset of Google Play Store's Top Trending Android Games and User Reviews
 
