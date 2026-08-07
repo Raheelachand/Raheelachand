@@ -31,7 +31,7 @@ Created an open-source, research-ready dataset combining **394 top-trending Andr
 Developed an automated framework that analyzes Android app user reviews and maps user-reported concerns to software quality attributes, turning unstructured feedback into structured, quality-focused information for software evaluation.
 
 * 📄 **Paper:** https://link.springer.com/chapter/10.1007/978-3-031-45651-0_27
-* 💻 **Repository:** https://github.com/AndroidGamesResearch/Dataset-of-Software-Quality-Attributes
+* 💻 **Code & Research Artifacts:** https://github.com/AndroidGamesResearch/Dataset-of-Software-Quality-Attributes
 
 
 ### Exploring Software Quality Through Data-Driven Approaches and Knowledge Graphs
