@@ -15,7 +15,7 @@
 * Imitation Learning
 
 
-## Research
+## 💻 Published Research
 
 ### 📚 TTAG+R - A Dataset of Google Play Store's Top Trending Android Games and User Reviews
 
@@ -25,7 +25,7 @@ Created an open-source, research-ready dataset combining **394 top-trending Andr
 * </> **Repository:** https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews
 
 
-### An ML-Based Quality Features Extraction (QFE) Framework for Android Apps
+### 📚 An ML-Based Quality Features Extraction (QFE) Framework for Android Apps
 
 Developed an automated framework that analyzes Android app user reviews and maps user-reported concerns to software quality attributes, turning unstructured feedback into structured, quality-focused information for software evaluation.
 
@@ -33,7 +33,7 @@ Developed an automated framework that analyzes Android app user reviews and maps
 * </> **Code & Research Artifacts:** https://github.com/AndroidGamesResearch/Dataset-of-Software-Quality-Attributes
 
 
-### Exploring Software Quality Through Data-Driven Approaches and Knowledge Graphs
+### 📚 Exploring Software Quality Through Data-Driven Approaches and Knowledge Graphs
 
 Transformed theoretical software quality models into reusable, machine-readable resources—including structured datasets, CSV files, Python dictionaries, and knowledge graphs—bridging the gap between conceptual quality models and computational analysis.
 
@@ -41,7 +41,15 @@ Transformed theoretical software quality models into reusable, machine-readable 
 * </> **Code & Research Artifacts:** https://github.com/AndroidGamesResearch/MappingAndroidFeaturesToQualityAttributes
 
 
-## Game Development
+## Ongoing Research
+
+* **GameMetaDroid** *(under development)* — A large-scale dataset for AI-driven mobile game analytics.
+* **Interaction Analysis for Game Analytics** *(in progress)* — Research on interaction-aware learning and interpretable machine learning for understanding game success.
+
+  ---
+
+
+## 🎮 Game Development
 
 Before transitioning into research, I worked professionally and independently
 with Unity on mobile, cross-platform, VR/XR, and interactive game projects.
