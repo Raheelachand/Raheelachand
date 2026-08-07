@@ -133,16 +133,27 @@ Developed a cross-platform Fidget Spinner game in Unity for Apple TV (tvOS), iOS
 
 ## ❌⭕ VR Tic-Tac-Toe
 <p>
-  🥽 VR
+  🥽 Oculus Quest 2
+  &nbsp;·&nbsp;
+  🎮 Touch Controllers
   &nbsp;·&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="20"> Unity
   &nbsp;·&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20"> C#
 </p>
 
-A Unity VR/XR prototype developed during my PhD coursework,
-exploring interaction and gameplay in an immersive environment.
+Developed a VR Tic-Tac-Toe game in Unity, featuring immersive controller-based interaction and a computer-controlled AI opponent. Players interact directly with the 3D game board in VR to place moves and compete against the AI.
 
+### Key Features & Technical Highlights
+
+- **AI Opponent** — computer-controlled Tic-Tac-Toe gameplay
+- **Oculus Touch Controllers** — motion-controller based board interaction
+- **VR Interaction** — point-and-select interaction in a 3D environment
+- **Game AI & Logic** — AI decisions, turns, win conditions, and draw detection
+- **Motion-Sickness-Aware Design** — stationary gameplay with minimal artificial movement
+- **Spatial UI** — VR-friendly interface positioned within the 3D environment
+- **Oculus Quest 2** — standalone VR deployment
+- 
 [View project](PROJECT_LINK)
 
 
