@@ -47,8 +47,8 @@ Transformed theoretical software quality models into reusable, machine-readable 
 
 ## Ongoing Research
 
-**GameMetaDroid** *(under development)* — A large-scale dataset for AI-driven mobile game analytics.
-**Interaction Analysis for Game Analytics** *(in progress)* — Research on interaction-aware learning and interpretable machine learning for understanding game success.
+* **GameMetaDroid** *(under development)* — A large-scale dataset for AI-driven mobile game analytics.
+* **Interaction Analysis for Game Analytics** *(in progress)* — Research on interaction-aware learning and interpretable machine learning for understanding game success.
 
 ## 🎮 Game Development
 
