@@ -65,7 +65,6 @@ including player interaction and UI systems.
 
 
 ### Curling Game
-📱 Mobile Game
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="20"> Unity
   &nbsp;·&nbsp;
