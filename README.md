@@ -79,11 +79,7 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
 * **Game Systems** — scoring, turn-management system, aiming, and shot controls
 * **Advertising Integration** — in-game ads and sponsor banners
 * **Cross-Platform** — iOS and Android
-
-- **Project:** [USA Curling](https://www.teamusa.com/)
-
-<h3> - Gameplay Screenshots</h3>
-
+* **Project:** - [USA Curling](https://www.teamusa.com/)
 <p>
   <img src="Assets/curling_game/gameplay_1.png" width="100">
   <img src="Assets/curling_game/gameplay_2.png" width="100">
@@ -118,8 +114,7 @@ Developed a cross-platform Fidget Spinner game in Unity for Apple TV (tvOS), iOS
 - **Spinner Collection** — multiple spinner designs to choose from
 - **Customization System** — selectable and unlockable spinner variations
 - **In-App Purchases (IAP)** — additional content and customization
-
-[View project](Assets/fidgetspinner)
+- **Project** - [View project](Assets/fidgetspinner)
 
 <p>
   <img src="Assets/fidgetspinner/fidgetspinner_play_instructions.png" width="180">
@@ -155,8 +150,7 @@ Developed a VR Tic-Tac-Toe game in Unity, featuring immersive controller-based i
 - **Motion-Sickness-Aware Design** — stationary gameplay with minimal artificial movement
 - **Spatial UI** — VR-friendly interface positioned within the 3D environment
 - **Oculus Quest 2** — standalone VR deployment
-
-[View project](Assets/fidgetspinner/Assets/VR_TicTacToe)
+- **Project** - [View project](Assets/fidgetspinner/Assets/VR_TicTacToe)
 
 <p>
   <img src="Assets/VR_TicTacToe/VR_TicTacTo_gamePlay.png" width="180">
