@@ -101,10 +101,30 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
 </p>
 
 ### Fidget Spinner
-**Apple TV Game · Unity**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="20"> Unity
+  &nbsp;·&nbsp;
 
-Developed as part of my professional game-development work, targeting
-Apple TV using Unity.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20"> C#
+  &nbsp;·&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="20"> iOS & tvOS
+  &nbsp;·&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="20"> Android
+</p>
+
+Developed a cross-platform Fidget Spinner game in Unity for Apple TV (tvOS), iOS, and Android, featuring two-player competitive gameplay, physics-based spinning mechanics, multiple selectable spinner designs, platform-specific controls, customization, and in-app purchases (IAP).
+
+### Key Features & Technical Highlights
+
+- **Two-Player Gameplay** — competitive spinner gameplay
+- **Physics-Based Gameplay** — interactive fidget spinner mechanics
+- **Cross-Platform Development** — Apple TV (tvOS), iOS & Android
+- **Apple TV Remote Controls** — tvOS gameplay using the Apple TV remote
+- **Spinner Collection** — multiple spinner designs to choose from
+- **Customization System** — selectable and unlockable spinner variations
+- **In-App Purchases (IAP)** — additional content and customization
 
 [View project](PROJECT_LINK)
 
