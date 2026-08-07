@@ -87,7 +87,7 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
   <img src="Assets/curling_game/gameplay_1.png" width="180">
   <img src="Assets/curling_game/gameplay_2.png" width="180">
   <img src="Assets/curling_game/gameplay_3.png" width="180">
-  <img src="Assets/curling_game/gameplay_6.png" width="180">
+  <img src="Assets/curling_game/gameplay_6.png" width="200">
 </p>
 
 <p>
