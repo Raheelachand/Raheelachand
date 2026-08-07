@@ -14,6 +14,7 @@
 * Large Language Models for Games
 * Imitation Learning
 
+<hr style="height:4px; background-color:#d0d7de; border:none;">
 
 ## 💻 Published Research
 
