@@ -75,9 +75,7 @@ including player interaction and UI systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="20"> Android
 </p>
 
-Developed the USA Curling mobile game in Unity for iOS and Android as part of my professional work, implementing core gameplay, player-controlled shots, sweeping interactions, scoring, and two-player mechanics.
-
-*Developed during my employment; all game assets, trademarks, and intellectual property belong to their respective owners.*
+Developed the USA Curling mobile game in Unity for iOS and Android as part of my professional work, implementing core gameplay, player-controlled shots, sweeping interactions, scoring, two-player mechanics, and online multiplayer. The game also featured in-game advertising and sponsor banner integrations, incorporating branded promotional content throughout the gameplay experience.
 
 **Project:** [USA Curling](https://www.teamusa.com/)
 
@@ -96,6 +94,24 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
   <img src="gameplay_ads_4.png" width="180">
   <img src="gameplay_ads_5.png" width="180">
 </p>
+
+### Key Features & Technical Highlights
+
+- 🎯 Player-controlled curling shots & aiming system
+- 🥌 Curling stone physics and movement
+- 🧹 Interactive sweeping mechanics
+- 🌐 Online two-player multiplayer
+- 🏆 Scoring & turn-management system
+- 📢 In-game advertising & sponsor banner integration
+- 🎮 Unity / C# development
+- 📱 Cross-platform deployment for iOS & Android
+
+ - **Online Multiplayer** — two-player networked gameplay
+- **Physics-Based Gameplay** — curling stone movement and interactions
+- **Sweeping Mechanics** — player-controlled sweeping system
+- **Game Systems** — scoring, turns, aiming, and shot controls
+- **Advertising Integration** — in-game ads and sponsor banners
+- **Cross-Platform** — iOS and Android
 
 
 ### Fidget Spinner
