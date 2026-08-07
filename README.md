@@ -1,6 +1,6 @@
 # Hi, I'm Raheela Chand 👋
 
-**PhD Researcher @ University of Turku | AI for Games • Game Analytics • Data-Centric AI | Former Unity Developer**
+**PhD Researcher @ University of Turku | AI for Games • Game Analytics • Data-Centric AI | Unity Developer**
 
 ## Research Interests
 
@@ -14,167 +14,79 @@
 * Large Language Models for Games
 * Imitation Learning
 
-## Research & Selected Projects
 
-🔬 **GameMetaDroid** *(coming soon)*
-A large-scale research dataset for mobile game analytics and AI for Games research. 
+## Research
 
-📄 **Paper:** [Paper Link]  
-💾 **Dataset & Repository:** [Repository Link]
+### TTAG+R
+**A Dataset of Google Play Store's Top Trending Android Games and User Reviews**
 
-📊 **Interaction Analysis for Game Analytics** *(coming soon)*
-Research investigating how interactions between game features influence player engagement and game success using interpretable machine learning.
+Created an open-source, research-ready dataset combining **394 top-trending Android games** with **8,423 user reviews** across **17 game genres** and three Google Play categories: Top Free, Top Paid, and Top Grossing. The dataset provides structured game metadata and user feedback to enable reproducible, data-driven and ML-based research on Android games, user concerns, market trends, and software quality.
 
-## 📱 TTAG+R
-### A Dataset of Google Play Store's Top-Trending Android Games and User Reviews
+**Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10077024)  
+**Data & Code:** [View repository](https://github.com/AndroidGamesResearch/Dataset-of-Trending-Android-Games-with-User-Reviews)
 
-> **Research Problem:**  
-> [Add 2–3 lines describing the motivation and research gap.]
 
-**Approach & Contribution:**  
-[Add 2–3 lines describing what was collected/developed and your contribution.]
+### An ML-Based Quality Features Extraction (QFE) Framework for Android Apps
 
-📄 **Paper:** [IEEE Xplore](PAPER_LINK)  
-💾 **Dataset & Repository:** [AndroidGamesResearch](REPOSITORY_LINK)
+Developed an automated framework that analyzes Android app user reviews and maps user-reported concerns to software quality attributes, turning unstructured feedback into structured, quality-focused information for software evaluation.
 
----
+**Paper:** [Springer](https://link.springer.com/chapter/10.1007/978-3-031-45651-0_27)  
+**Code & Research Artifacts:** [View repository]((https://github.com/AndroidGamesResearch/Dataset-of-Software-Quality-Attributes))
 
-## 🤖 ML-Based Quality Features Extraction for Android Apps
-### Machine Learning for Android Software Quality Analysis
 
-> **Research Problem:**  
-> [Add 2–3 lines describing the software-quality problem addressed.]
+### Exploring Software Quality Through Data-Driven Approaches and Knowledge Graphs
 
-**Approach & Contribution:**  
-[Add 2–3 lines describing the ML approach and research contribution.]
+Transformed theoretical software quality models into reusable, machine-readable resources—including structured datasets, CSV files, Python dictionaries, and knowledge graphs—bridging the gap between conceptual quality models and computational analysis.
 
-📄 **Paper:** [Springer](PAPER_LINK)  
-💾 **Dataset & Repository:** [AndroidGamesResearch](REPOSITORY_LINK)
+**Paper:** [Springer]([(https://link.springer.com/chapter/10.1007/978-3-031-60328-0_37)])  
+**Code & Research Artifacts:** [View repository](https://github.com/AndroidGamesResearch/MappingAndroidFeaturesToQualityAttributes)
 
----
 
-## 🔗 Exploring Software Quality Through Data-Driven Approaches and Knowledge Graphs
+## Game Development
 
-> **Research Problem:**  
-> [Add 2–3 lines describing the research problem.]
+Before transitioning into research, I worked professionally and independently
+with Unity on mobile, cross-platform, VR/XR, and interactive game projects.
 
-**Approach & Contribution:**  
-[Add 2–3 lines describing the data-driven / graph-based approach and contribution.]
 
-📄 **Paper:** [Springer](PAPER_LINK)  
-💾 **Research Artifacts:** [AndroidGamesResearch](REPOSITORY_LINK)
+### Bubble Buster
+**Commercial Mobile Game · Unity**
 
----
+Developed gameplay systems and core mechanics using Unity and C#,
+including player interaction and UI systems.
 
-## 🎨 Visual Ethics for UI/UX in Android Game Apps
+[View project](PROJECT_LINK)
 
-> **Research Problem:**  
-> [Add 2–3 lines describing the research problem.]
 
-**Approach & Contribution:**  
-[Add 2–3 lines describing the study and your contribution.]
+### Curling Game
+**Published Cross-Platform Game · Unity**
 
-📄 **Paper:** [Read Paper](PAPER_LINK)  
-💾 **Dataset & Repository:** [AndroidGamesResearch](REPOSITORY_LINK)
+Developed as part of my professional Unity development work for
+cross-platform deployment.
 
----
+[View project](PROJECT_LINK)
 
-# 🎮 Unity & Game Development
 
-Selected professional, freelance, and academic game-development work.
+### Fidget Spinner
+**Apple TV Game · Unity**
 
-## 🫧 Bubble Buster
-### Commercial Mobile Game
+Developed as part of my professional game-development work, targeting
+Apple TV using Unity.
 
-**Unity • C# • Mobile**
+[View project](PROJECT_LINK)
 
-[Add 2–3 lines describing the gameplay systems, mechanics, UI, or other parts you developed.]
 
-🎮 **Project / Media:** [View Project](PROJECT_LINK)
+### VR Tic-Tac-Toe
+**VR/XR Prototype · Unity**
 
----
+A Unity VR/XR prototype developed during my PhD coursework,
+exploring interaction and gameplay in an immersive environment.
 
-## 🥌 Curling Game
-### Published Cross-Platform Game
+[View project](PROJECT_LINK)
 
-**Unity • C# • Cross-Platform**
 
-[Add 2–3 lines describing the game and your development contribution.]
+### Selected Unity Projects
 
-🎮 **Project / Media:** [View Project](PROJECT_LINK)
-
----
-
-## 📺 Fidget Spinner
-### Apple TV Game
-
-**Unity • C# • Apple TV**
-
-[Add 2–3 lines describing your development contribution.]
-
-🎮 **Project / Media:** [View Project](PROJECT_LINK)
-
----
-
-## 🥽 VR Tic-Tac-Toe
-### VR/XR Prototype
-
-**Unity • C# • VR/XR**
-
-[Add 2–3 lines describing the prototype, interactions, and systems you developed.]
-
-💻 **Project:** [View Project](PROJECT_LINK)
-
----
-
-## 🌑 Limbo-Inspired 2D Platformer
-### 2D Game Development Project
-
-**Unity • C# • 2D Physics**
-
-[Add 2–3 lines describing the gameplay, mechanics, and systems you implemented.]
-
-💻 **Project:** [View Project](PROJECT_LINK)
-
----
-
-## 🔫 Hit & Run Shooter
-
-**Unity • C#**
-
-[Add 2–3 lines describing the project and your contribution.]
-
-💻 **Project:** [View Project](PROJECT_LINK)
-
----
-
-## 🏎️ 2D Car Racing
-
-**Unity • C# • 2D**
-
-[Add 2–3 lines describing the project and your contribution.]
-
-💻 **Project:** [View Project](PROJECT_LINK)
-
----
-
-## 🧊 3D Cubes
-
-**Unity • C# • 3D**
-
-[Add 2–3 lines describing the project and your contribution.]
-
-💻 **Project:** [View Project](PROJECT_LINK)
-
----
-
-## 🔗 Research & Professional Profiles
-
-[ResearchGate]([RESEARCHGATE_LINK](https://www.researchgate.net/scientific-contributions/Raheela-Chand-2247885170)) •
-[Google Scholar](GOOGLE_SCHOLAR_LINK) •
-[LinkedIn]([LINKEDIN_LINK](https://www.linkedin.com/in/raheela-chand-67769711b))
-## Connect
-
-* LinkedIn: https://www.linkedin.com/in/raheela-chand-67769711b
-* ResearchGate: https://www.researchgate.net/scientific-contributions/Raheela-Chand-2247885170
-* Email: [raheela.chand@yahoo.com](mailto:raheela.chand@yahoo.com)
+- **Limbo-Inspired 2D Platformer** — 2D gameplay and physics
+- **Hit & Run Shooter**
+- **2D Car Racing**
+- **3D Cubes**
