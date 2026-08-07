@@ -65,7 +65,7 @@ including player interaction and UI systems.
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
-### 🥌 USA Curling Game
+## 🥌 USA Curling Game
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="20"> Unity
   &nbsp;·&nbsp;
@@ -80,14 +80,14 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
 
 ### - Key Features & Technical Highlights
 
-- **Online Multiplayer** — two-player networked gameplay
-- **Physics-Based Gameplay** — curling stone movement and interactions
-- **Sweeping Mechanics** — player-controlled sweeping system
-- **Game Systems** — scoring, turn-management system, aiming, and shot controls
-- **Advertising Integration** — in-game ads and sponsor banners
-- **Cross-Platform** — iOS and Android
+* **Online Multiplayer** — two-player networked gameplay
+* **Physics-Based Gameplay** — curling stone movement and interactions
+* **Sweeping Mechanics** — player-controlled sweeping system
+* **Game Systems** — scoring, turn-management system, aiming, and shot controls
+* **Advertising Integration** — in-game ads and sponsor banners
+* **Cross-Platform** — iOS and Android
 
-**Project:** [USA Curling](https://www.teamusa.com/)
+- **Project:** [USA Curling](https://www.teamusa.com/)
 
 <h3> - Gameplay Screenshots</h3>
 
