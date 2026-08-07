@@ -99,12 +99,6 @@ Developed the USA Curling mobile game in Unity for iOS and Android as part of my
   <img src="Assets/curling_game/gameplay_6.png" width="400">
 </p>
 
-<p>
-  <img src="gameplay_ads_4.png" width="180">
-  <img src="gameplay_ads_5.png" width="180">
-</p>
-
-
 ### Fidget Spinner
 **Apple TV Game · Unity**
 
