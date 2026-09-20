@@ -50,7 +50,7 @@ Transformed theoretical software quality models into reusable, machine-readable 
 Developed an epidemiology-informed Interaction-Analysis Framework to examine how Ads and IAP relationships with mobile-game marketplace success vary across gameplay, national-market, and temporal contexts.
 
 * 📄 **Paper:** *(Manuscript in preparation)*
-* </> **Supplementary Materials & Research Artifacts:** YOUR_NEW_GITHUB_REPOSITORY_URL
+* </> **Code & Research Artifacts:** YOUR_NEW_GITHUB_REPOSITORY_URL
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
