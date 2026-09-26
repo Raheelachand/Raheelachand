@@ -45,6 +45,10 @@ Transformed theoretical software quality models into reusable, machine-readable 
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
+## Ongoing Research
+
+* **GameMetaDroid** *(under development)* — A large-scale dataset for AI-driven mobile game analytics.
+  
 #### 📚 The Cultural Paradox of Success: Rethinking Mobile Game Monetization Across Gameplay, Cross-Market, and Temporal Contexts
 
 Developed an epidemiology-informed Interaction-Analysis Framework to examine how Ads and IAP relationships with mobile-game marketplace success vary across gameplay, national-market, and temporal contexts.
@@ -54,13 +58,15 @@ Developed an epidemiology-informed Interaction-Analysis Framework to examine how
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
+#### 📚 What Gets Measured Gets Studied: A Cross-Attribute Systematic Review of Android Application Quality Revealing Measurability Bias and Its Implications
 
-## Ongoing Research
+Conducted a cross-attribute systematic review of Android application quality research to examine how software quality attributes are studied and measured, revealing measurability bias and its implications for the current research landscape.
 
-* **GameMetaDroid** *(under development)* — A large-scale dataset for AI-driven mobile game analytics.
-* **Interaction Analysis for Game Analytics** *(in progress)* — Research on interaction-aware learning and interpretable machine learning for understanding game success.
+* 📄 **Paper:** *(Under peer review)*
+* </> **Code & Research Artifacts:** *(Coming soon)*
 
-<hr style="height:6px; background-color:#d0d7de; border:none;">
+<hr style="height:4px; background-color:#d0d7de; border:none;">
+
 
 ## 🎮 Game Development
 
