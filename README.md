@@ -63,7 +63,7 @@ Developed an epidemiology-informed Interaction-Analysis Framework to examine how
 Conducted a cross-attribute systematic review of Android application quality research to examine how software quality attributes are studied and measured, revealing measurability bias and its implications for the current research landscape.
 
 * 📄 **Paper:** *(Under peer review)*
-* </> **Code & Research Artifacts:** *(Coming soon)*
+* </> **Code & Research Artifacts:** https://github.com/AndroidGamesResearch/Android-App-Quality-Systematic-Review.git
 
 <hr style="height:4px; background-color:#d0d7de; border:none;">
 
